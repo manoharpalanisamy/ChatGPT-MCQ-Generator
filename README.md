@@ -19,7 +19,7 @@ The ChatGPT MCQ Generator is a modular project developed to generate multiple-ch
     ```
 4. **Clone Repository:**
     ```bash
-    git clone [Your-repository]
+    git clone (https://github.com/send2manoo/ChatGPT-MCQ-Generator.git)
     ```
 5. **Install Dependencies:**
     ```bash
